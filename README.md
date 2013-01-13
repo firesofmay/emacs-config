@@ -1,3 +1,5 @@
+#Setup Forked from BG's Setup
+
 # BG's Emacs Setup #
 A fresh approach to managing my Emacs setup.
 
